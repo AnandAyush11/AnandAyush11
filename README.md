@@ -55,7 +55,7 @@
   
 ### Advanced Crop Yield Prediction (Under Journal Review)
 **Manipal University | Aug 2023 - Jan 2024**  
-<img align="right" src="https://img.shields.io/badge/Innovation-Research%20Paper-blueviolet">
+<img align="right" src="https://img.shields.io/badge/Research Project-Research%20Paper-blueviolet">
 - Predicted US crop yields using MODIS satellite data + USDA Crop Layer
 - Engineered features: Vegetation Indices, Land Surface Temperature
 - Achieved R² 0.83 with XGBoost vs 10 SOTA models
